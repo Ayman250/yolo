@@ -1,0 +1,11 @@
+
+path: ./dataset  # dataset root directory
+train: train/images  # train images
+val: temp_val/images  # temporary validation images directory
+test: test/images    # test images
+
+# Classes
+names:
+  0: shopping_cart
+  1: bottom_item
+    
