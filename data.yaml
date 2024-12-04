@@ -1,0 +1,11 @@
+
+path: /home/ayman/ml/pt/yolo  # dataset root directory
+train: /home/ayman/ml/pt/yolo/train/images  # train images
+val: /home/ayman/ml/pt/yolo/temp_val/images  # temporary validation images directory
+test: /home/ayman/ml/pt/yolo/test/images    # test images
+
+# Classes
+names:
+  0: negative
+  1: positive
+    
