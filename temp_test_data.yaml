@@ -1,0 +1,7 @@
+names:
+  0: negative
+  1: positive
+path: /home/ayman/ml/pt/yolo
+test: /home/ayman/ml/pt/yolo/test/images
+train: /home/ayman/ml/pt/yolo/train/images
+val: test/images
